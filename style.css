@@ -1,0 +1,39 @@
+.check{
+    border: 1px solid red;
+}
+.stop-watch{
+    width: 50vw;
+    min-height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0px auto;
+    margin-top: 5pc;
+    
+    
+}
+.conter{
+    width:100%;
+    margin-bottom: 30px;
+    font-size: 35px;
+}
+.conter div{
+    margin: 0px 5px;
+}
+.buttons{
+    width: 100%;
+    justify-content: center;
+}
+.buttons button{
+    margin: 0px 5px;
+}
+.startBtn{
+    display: block;
+}
+.stopBtn{
+    display: block;
+}
+.resetBtn{
+    display: block;
+}
